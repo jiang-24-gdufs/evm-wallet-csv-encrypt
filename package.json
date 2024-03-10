@@ -1,0 +1,15 @@
+{
+  "name": "evm-wallet-csv-encrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create-wallets": "node createWallets.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-evm-wallets-csv": "^1.1.0"
+  }
+}
